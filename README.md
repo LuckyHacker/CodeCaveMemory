@@ -15,7 +15,7 @@ pyinstaller --onefile code_cave_memory.py
 
 # Example code
 
-```
+```python
 CCM = CodeCaveMemory()
 
 print("{} bytes available in the CodeCaveMemory!".format(CCM.available_memory))
