@@ -1,6 +1,5 @@
 import os
 import pickle
-import time
 
 from subprocess import Popen
 
