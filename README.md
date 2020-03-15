@@ -6,6 +6,7 @@ Example of saving data acquired in the runtime to the program binary
 * Windows OS
 * Python 3 installed
 * pyinstaller (for generating new EXE file)
+* pefile
 
 # Generate new EXE
 
